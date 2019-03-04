@@ -38,7 +38,7 @@ namespace MyNameSpace
                 || drinkTypeComboBox.SelectedIndex == -1)
             {
                 MessageBox.Show("You must select a drink and size.", 
-                    "Missing required entry");
+                    "Missing (1.2 branch) required entry");
             }
             else
             {
