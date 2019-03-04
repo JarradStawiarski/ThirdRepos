@@ -37,7 +37,7 @@ namespace MyNameSpace
             if (noSizeRadioButton.Checked 
                 || drinkTypeComboBox.SelectedIndex == -1)
             {
-                MessageBox.Show("You must select a drink and size.", 
+                MessageBox.Show("You must select a big drink and size.", 
                     "Missing required entry");
             }
             else
