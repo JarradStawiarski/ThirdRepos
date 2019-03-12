@@ -11,6 +11,7 @@ namespace MyNameSpace
 {
     public partial class JuiceBarForm : Form
     {
+        //This is a comment for the exercise to do with cloning
         // Declare class variables.
         decimal itemSizeDecimal, itemPriceDecimal, totalOrderDecimal, 
             totalSalesDecimal;
